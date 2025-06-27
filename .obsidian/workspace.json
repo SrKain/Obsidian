@@ -11,10 +11,14 @@
             "id": "342c3bb8a5f018cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Clients/Cor7 Gastronomia/Plans/Análise do Posicionamento Digital do Cor7 Gastronomia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análise do Posicionamento Digital do Cor7 Gastronomia"
             }
           }
         ]
@@ -164,11 +168,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "eba917ec412f397c",
+  "active": "342c3bb8a5f018cc",
   "lastOpenFiles": [
-    "Clients/Cor7 Gastronomia/Plans/analise_posicionamento_digital.md",
-    "Untitled.md",
     "Clients/Cor7 Gastronomia/Plans/Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba.md",
+    "Clients/Cor7 Gastronomia/Plans/Análise do Posicionamento Digital do Cor7 Gastronomia.md",
+    "Untitled.md",
     "teste maneiro de cria.md",
     "Clients/Cor7 Gastronomia/Plans/Não confirmado 899726.crdownload",
     "Clients/Cor7 Gastro.md",
