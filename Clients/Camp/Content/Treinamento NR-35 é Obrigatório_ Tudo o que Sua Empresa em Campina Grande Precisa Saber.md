@@ -1,12 +1,12 @@
 # Treinamento NR-35 é Obrigatório? Tudo o que Sua Empresa em Campina Grande Precisa Saber
 
+#CampMed #PostBlog #SEO 
+
 **Meta Title:** Treinamento NR-35 Campina Grande | Trabalho em Altura | CampMed
 **Meta Description:** Trabalho em altura na sua empresa em Campina Grande do Sul? O treinamento NR-35 é obrigatório! Entenda as exigências e capacite sua equipa com a CampMed.
 **Slug:** treinamento-nr-35-obrigatorio-campina-grande-sul
 **Categorias:** Normas Regulamentadoras (NRs), Segurança do Trabalho, Treinamentos
 **Tags:** treinamento nr-35 campina grande do sul, nr-35 trabalho em altura, capacitação nr-35, segurança trabalho altura, pgr campina grande do sul, saúde ocupacional campina grande do sul
-
-#CampMed
 
 ---
 

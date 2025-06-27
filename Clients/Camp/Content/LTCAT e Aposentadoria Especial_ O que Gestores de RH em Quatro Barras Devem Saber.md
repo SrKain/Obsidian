@@ -1,12 +1,13 @@
 # LTCAT e Aposentadoria Especial: O que Gestores de RH em Quatro Barras Devem Saber
 
+#CampMed #PostBlog #SEO 
+
 **Meta Title:** LTCAT Aposentadoria Especial Quatro Barras | Consultoria | CampMed
 **Meta Description:** Sua empresa em Quatro Barras possui funções com direito à aposentadoria especial? Entenda a importância do LTCAT e evite passivos previdenciários com a CampMed.
 **Slug:** ltcat-aposentadoria-especial-quatro-barras-rh
 **Categorias:** Legislação Previdenciária, Saúde Ocupacional, Gestão de RH
 **Tags:** ltcat quatro barras, laudo técnico condições ambientais trabalho, aposentadoria especial quatro barras, gestão de rh quatro barras, passivo previdenciário sst, saúde ocupacional quatro barras
 
-#CampMed
 
 ---
 

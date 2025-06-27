@@ -1,5 +1,7 @@
 # Nosso Método: Como Criamos Marcas Premium que se Destacam em Curitiba (Passo a Passo)
 
+#Dalla #PostBlog #SEO
+
 **Meta Title:** Método de Criação de Marcas Premium Curitiba | Estúdio Dalla
 **Meta Description:** Curioso sobre como nasce uma marca premium de sucesso em Curitiba? Conheça nosso método passo a passo, focado em resultados para negócios locais.
 **Slug:** metodo-criacao-marcas-premium-curitiba

@@ -2,6 +2,7 @@
 
 Com base no diagnóstico preliminar, este plano de ação detalha as etapas recomendadas para alavancar o tráfego orgânico, criar conteúdo relevante, otimizar o SEO e melhorar a navegabilidade e posicionamento estratégico do site Estúdio Dalla.
 
+#Dalla #Planej #SEO
 ## Frente 1: Estratégia de Conteúdo
 
 **Objetivo:** Estabelecer o Estúdio Dalla como autoridade em design de marcas, atrair tráfego qualificado através de conteúdo relevante e nutrir potenciais clientes.

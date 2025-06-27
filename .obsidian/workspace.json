@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8c689be40ccdc1",
+        "id": "d6286e33b5025aaf",
         "type": "tabs",
         "children": [
           {
-            "id": "7d97c81ffa30a593",
+            "id": "6963563f7777dca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clients/Camp/Plans/Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional"
+            }
+          },
+          {
+            "id": "342c3bb8a5f018cc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -136,16 +150,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Clients/Camp/Plans/Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,52 +169,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "7d97c81ffa30a593",
+  "active": "eba917ec412f397c",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
-    "Clients/Camp/Plans/Plano de Ação Detalhado - CampMed Saúde Ocupacional.md",
+    "project Drop",
     "Clients/Camp/Plans/Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional.md",
+    "Clients/Camp/Plans/Plano de Ação Detalhado - CampMed Saúde Ocupacional.md",
     "Clients/Camp/Plans/Lista de Tarefas - CampMed Ocupacional.md",
     "Clients/Camp/Plans/Guia Rápido_ Implementando as Melhorias e Conteúdo - CampMed Ocupacional.md",
     "Clients/Camp/Plans/Estratégia de SEO e Palavras-chave - CampMed Saúde Ocupacional.md",
     "Clients/Camp/Plans/Diagnóstico Preliminar - CampMed Saúde Ocupacional.md",
     "Clients/Camp/Content/Além da Obrigação_ Como o PCMSO Bem Gerenciado Aumenta a Produtividade da Sua Equipa.md",
-    "Clients/Camp/Content/Treinamento NR-35 é Obrigatório_ Tudo o que Sua Empresa em Campina Grande Precisa Saber.md",
-    "Clients/Camp/Content",
-    "Clients/Camp/Content/Saúde Mental no Trabalho_ Estratégias para Empresas de Médio_Grande Porte na Região.md",
-    "Clients/Camp/Content/Reduza Custos com Afastamentos em Quatro Barras_ O Papel Estratégico da Saúde Ocupacional.md",
-    "Clients/Camp/Content/NR-12 em Foco_ Como Garantir a Segurança de Máquinas na Indústria de Campina Grande do Sul.md",
-    "Clients/Camp/Content/LTCAT e Aposentadoria Especial_ O que Gestores de RH em Quatro Barras Devem Saber.md",
-    "Clients/Camp/Content/Gestão de Riscos Ocupacionais (GRO_PGR)_ Guia Essencial para Empresas de Quatro Barras.md",
-    "Clients/Camp/Content/Exames Ocupacionais (Admissional, Periódico, Demissional)_ Garanta a Conformidade em Campina Grande do Sul.md",
-    "Clients/Camp/Content/eSocial e SST_ Sua Empresa em Campina Grande do Sul está 100% em Conformidade_.md",
-    "Clients/Camp/Content/Ergonomia no Ambiente de Trabalho_ Prevenindo Lesões e Multas em Sua Empresa.md",
-    "Clients/Camp/Content/Como a CampMed Ajuda Empresas Locais a Evitar Acidentes de Trabalho (Case Prático).md",
-    "Clients/Camp/Content/CIPA Atuante_ Maximizando a Segurança e o Engajamento na Sua Empresa.md",
     "Clients/Camp/Content/Checklist de Segurança do Trabalho_ Sua Indústria em Quatro Barras está Segura_.md",
-    "Clients/Camp/Plans",
+    "Clients/Camp/Content/CIPA Atuante_ Maximizando a Segurança e o Engajamento na Sua Empresa.md",
+    "Clients/Camp/Content/Como a CampMed Ajuda Empresas Locais a Evitar Acidentes de Trabalho (Case Prático).md",
+    "Clients/Camp/Content/Ergonomia no Ambiente de Trabalho_ Prevenindo Lesões e Multas em Sua Empresa.md",
+    "Clients/Camp/Content/eSocial e SST_ Sua Empresa em Campina Grande do Sul está 100% em Conformidade_.md",
+    "Clients/Camp/Content/Exames Ocupacionais (Admissional, Periódico, Demissional)_ Garanta a Conformidade em Campina Grande do Sul.md",
+    "Clients/Camp/Content/Gestão de Riscos Ocupacionais (GRO_PGR)_ Guia Essencial para Empresas de Quatro Barras.md",
+    "Clients/Camp/Content/LTCAT e Aposentadoria Especial_ O que Gestores de RH em Quatro Barras Devem Saber.md",
+    "Clients/Camp/Content/NR-12 em Foco_ Como Garantir a Segurança de Máquinas na Indústria de Campina Grande do Sul.md",
+    "Clients/Camp/Content/Parceria Estratégica em SST_ Por Que Empresas de Campina Grande e Quatro Barras Escolhem a CampMed_.md",
+    "Clients/Camp/Content/Reduza Custos com Afastamentos em Quatro Barras_ O Papel Estratégico da Saúde Ocupacional.md",
+    "Clients/Camp/Content/Treinamento NR-35 é Obrigatório_ Tudo o que Sua Empresa em Campina Grande Precisa Saber.md",
+    "Clients/Camp/Content/Saúde Mental no Trabalho_ Estratégias para Empresas de Médio_Grande Porte na Região.md",
     "Tech/Notion/Fórmula Notion.md",
-    "Tech/Notion",
-    "Tech/Manus.ai",
-    "Tech",
-    "Clients",
     "Clients/Dalla/plans/Plano de Ação Detalhado - Estúdio Dalla.md",
     "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
     "Clients/Dalla/plans/Guia Passo a Passo_ Implementando o Plano de Ação - Estúdio Dalla.pdf",
     "Clients/Dalla/plans/Diagnóstico Preliminar - Estúdio Dalla.md",
     "Clients/Dalla/content/Sua Marca Está Atualizada_ Tendências de Design que o Mercado Premium de Curitiba Valoriza.md",
-    "Clients/Dalla/content/Seu Site Vende em Qualquer Tela_ A Importância do Design Responsivo para Negócios em Curitiba.md",
-    "Clients/Dalla/plans",
-    "Clients/Dalla/content"
+    "Clients/Dalla/content/Sua Marca em Curitiba Merece Mais_ O Poder do Design Estratégico para Negócios Premium.md",
+    "Untitled 1",
+    "Clients/Camp/Content",
+    "Clients/Camp/Plans",
+    "Tech/Notion",
+    "Tech/Manus.ai",
+    "Tech",
+    "Clients"
   ]
 }

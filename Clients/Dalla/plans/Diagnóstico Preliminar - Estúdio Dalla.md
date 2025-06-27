@@ -1,5 +1,7 @@
 # Diagnóstico Preliminar - Estúdio Dalla (estudiodalla.com)
 
+
+#Dalla #Diagnóstico #SEO
 ## Introdução
 
 Este diagnóstico preliminar baseia-se na análise do site https://www.estudiodalla.com/ e nas solicitações do utilizador para alavancar o tráfego orgânico, incluindo a criação de 14 posts de blog, reestruturação de SEO e otimização da navegabilidade com foco em Calls-to-Action (CTAs).

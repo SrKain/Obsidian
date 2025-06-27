@@ -1,5 +1,7 @@
 # Sua Marca em Curitiba Merece Mais: O Poder do Design Estratégico para Negócios Premium
 
+#Dalla #PostBlog #SEO
+
 **Meta Title:** Design Estratégico para Negócios Premium em Curitiba | Estúdio Dalla
 **Meta Description:** Seu negócio em Curitiba busca clientes premium? Descubra como o design estratégico vai além do visual e atrai o público certo. Dicas do Estúdio Dalla.
 **Slug:** design-estrategico-negocios-premium-curitiba

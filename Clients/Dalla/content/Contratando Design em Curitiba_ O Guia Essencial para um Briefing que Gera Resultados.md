@@ -1,5 +1,7 @@
 # Contratando Design em Curitiba: O Guia Essencial para um Briefing que Gera Resultados
 
+#Dalla #PostBlog #SEO
+
 **Meta Title:** Contratar Design em Curitiba: Briefing Eficaz | Guia | Estúdio Dalla
 **Meta Description:** Vai contratar um designer ou estúdio em Curitiba? Aprenda a criar um briefing claro e eficaz que garante resultados alinhados aos seus objetivos. Guia prático.
 **Slug:** contratar-design-curitiba-briefing-eficaz

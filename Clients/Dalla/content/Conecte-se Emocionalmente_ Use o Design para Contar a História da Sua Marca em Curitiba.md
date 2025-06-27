@@ -1,5 +1,7 @@
 # Conecte-se Emocionalmente: Use o Design para Contar a História da Sua Marca em Curitiba
 
+#Dalla #PostBlog #SEO
+
 **Meta Title:** Storytelling Visual para Marcas Premium Curitiba | Estúdio Dalla
 **Meta Description:** Quer criar uma conexão real com seus clientes em Curitiba? Aprenda a usar o design (storytelling visual) para contar a história da sua marca e gerar emoção.
 **Slug:** storytelling-visual-marcas-premium-curitiba

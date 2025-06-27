@@ -1,5 +1,7 @@
 # Checklist Premium: Sua Marca está Pronta para Atrair os Melhores Clientes de Curitiba?
 
+#Dalla #PostBlog #SEO
+
 **Meta Title:** Checklist Marca Premium Curitiba | Pronta para o Sucesso? | Estúdio Dalla
 **Meta Description:** Sua marca em Curitiba está preparada para atrair clientes premium? Use nosso checklist prático para avaliar sua identidade visual e posicionamento no mercado local.
 **Slug:** checklist-marca-premium-pronta-curitiba

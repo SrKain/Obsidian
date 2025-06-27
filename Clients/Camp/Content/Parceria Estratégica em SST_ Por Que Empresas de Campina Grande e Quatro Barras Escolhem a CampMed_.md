@@ -1,5 +1,7 @@
 # Parceria Estratégica em SST: Por Que Empresas de Campina Grande e Quatro Barras Escolhem a CampMed?
 
+#CampMed #PostBlog #SEO 
+
 **Meta Title:** Parceria SST Campina Grande/Quatro Barras | Por Que Escolher | CampMed
 **Meta Description:** Procurando um parceiro em Saúde e Segurança do Trabalho em Campina Grande do Sul ou Quatro Barras? Descubra por que médias e grandes empresas locais confiam na CampMed.
 **Slug:** parceria-sst-porque-escolher-campmed-regiao

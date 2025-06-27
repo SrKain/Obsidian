@@ -1,12 +1,12 @@
 # Reduza Custos com Afastamentos em Quatro Barras: O Papel Estratégico da Saúde Ocupacional
 
+#CampMed #PostBlog #SEO 
+
 **Meta Title:** Reduzir Custos Afastamentos Quatro Barras | Saúde Ocupacional | CampMed
 **Meta Description:** Afastamentos por doença ou acidente impactam sua empresa em Quatro Barras? Descubra como a gestão de saúde ocupacional da CampMed reduz custos e absenteísmo.
 **Slug:** reduzir-custos-afastamentos-quatro-barras-saude-ocupacional
 **Categorias:** Gestão de Custos, Saúde Ocupacional, Legislação Trabalhista
 **Tags:** custos afastamentos quatro barras, reduzir absenteísmo quatro barras, gestão de saúde ocupacional quatro barras, medicina do trabalho quatro barras, segurança trabalho quatro barras, gestão de rh quatro barras
-
-#CampMed
 
 ---
 
