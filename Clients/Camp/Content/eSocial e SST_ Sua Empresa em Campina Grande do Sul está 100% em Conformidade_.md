@@ -1,6 +1,6 @@
 # eSocial e SST: Sua Empresa em Campina Grande do Sul está 100% em Conformidade?
 
-#CampMed #PostBlog #SEO 
+#CampMed #PostBlog #SEO #Manus
 
 **Meta Title:** eSocial SST Campina Grande do Sul | Conformidade Garantida | CampMed
 **Meta Description:** O eSocial exige o envio de eventos de SST. Sua empresa em Campina Grande do Sul está preparada? Evite multas e garanta a conformidade com a CampMed.

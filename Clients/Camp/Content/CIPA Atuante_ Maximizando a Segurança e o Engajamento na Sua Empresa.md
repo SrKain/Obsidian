@@ -1,6 +1,6 @@
 # CIPA Atuante: Maximizando a Segurança e o Engajamento na Sua Empresa
 
-#CampMed #PostBlog #SEO 
+#CampMed #PostBlog #SEO #Manus
 
 **Meta Title:** CIPA Atuante | Segurança e Engajamento no Trabalho | CampMed
 **Meta Description:** Sua CIPA é apenas uma formalidade ou um motor de segurança e engajamento? Descubra como potencializar a CIPA na sua empresa com o apoio da CampMed.

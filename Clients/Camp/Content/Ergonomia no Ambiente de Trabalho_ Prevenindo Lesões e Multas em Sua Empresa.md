@@ -1,6 +1,6 @@
 # Ergonomia no Ambiente de Trabalho: Prevenindo Lesões e Multas em Sua Empresa
 
-#CampMed #PostBlog #SEO 
+#CampMed #PostBlog #SEO #Manus
 
 **Meta Title:** Ergonomia no Trabalho | Prevenção LER/DORT | CampMed
 **Meta Description:** Invista em ergonomia e evite lesões (LER/DORT), afastamentos e multas. A CampMed oferece Análise Ergonômica do Trabalho (AET) para empresas da região.
