@@ -1,6 +1,6 @@
 # Evite Armadilhas: 5 Erros de Imagem que Afastam Clientes Premium em Curitiba
 
-#Dalla #PostBlog #SEO
+#Dalla #PostBlog #SEO #Manus
 
 **Meta Title:** Erros de Imagem que Afastam Clientes Premium em Curitiba | Evite! | Estúdio Dalla
 **Meta Description:** Sua imagem atrai ou afasta clientes premium em Curitiba? Conheça 5 erros comuns de identidade visual e como corrigi-los para valorizar seu negócio.

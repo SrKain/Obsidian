@@ -2,6 +2,7 @@
 
 #CampMed
 #Planej
+#Manus 
 
 **Data:** 29 de Maio de 2025
 **Foco:** Médias e Grandes Empresas em Campina Grande do Sul e Quatro Barras - PR

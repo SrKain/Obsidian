@@ -2,7 +2,7 @@
 
 #CampMed 
 #Planej 
-
+#Manus
 
 Este ficheiro acompanha o progresso das ações para alavancar o tráfego orgânico do site CampMed Ocupacional, com foco em médias e grandes empresas de Campina Grande do Sul e Quatro Barras - PR.
 
