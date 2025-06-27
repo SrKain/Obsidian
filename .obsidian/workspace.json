@@ -11,10 +11,14 @@
             "id": "342c3bb8a5f018cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Clients/Cor7 Gastronomia/Plans/Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Clients/Cor7 Gastronomia/Plans/Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba"
             }
           }
         ],
@@ -165,6 +170,14 @@
   },
   "active": "342c3bb8a5f018cc",
   "lastOpenFiles": [
+    "Clients/Cor7 Gastronomia/Plans/Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba.md",
+    "Clients/Cor7 Gastronomia/Plans/Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba.md",
+    "Clients/Cor7 Gastronomia/Plans/Não confirmado 899726.crdownload",
+    "Clients/Cor7 Gastro.md",
+    "Clients/Cor7 Gastronomia/Content",
+    "Clients/Cor7 Gastronomia/Plans",
+    "Clients/Cor7 Gastronomia",
+    "Clients/Cor7 Gastronomia/Plans/Untitled",
     "Clients/Dalla/plans/Plano de Ação Detalhado - Estúdio Dalla.md",
     "Clients/Dalla/plans/Guia Passo a Passo_ Implementando o Plano de Ação - Estúdio Dalla.pdf",
     "Clients/Dalla/plans/Diagnóstico Preliminar - Estúdio Dalla.md",
@@ -189,16 +202,9 @@
     "Clients/Camp/Content/Treinamento NR-35 é Obrigatório_ Tudo o que Sua Empresa em Campina Grande Precisa Saber.md",
     "Clients/Camp/Content/Saúde Mental no Trabalho_ Estratégias para Empresas de Médio_Grande Porte na Região.md",
     "Clients/Camp/Content/Reduza Custos com Afastamentos em Quatro Barras_ O Papel Estratégico da Saúde Ocupacional.md",
-    "Clients/Camp/Content/Parceria Estratégica em SST_ Por Que Empresas de Campina Grande e Quatro Barras Escolhem a CampMed_.md",
-    "Clients/Camp/Content/NR-12 em Foco_ Como Garantir a Segurança de Máquinas na Indústria de Campina Grande do Sul.md",
     "project Drop/Não confirmado 862698.crdownload",
     "project Drop/Não confirmado 733233.crdownload",
     "project Drop/Não confirmado 841522.crdownload",
-    "project Drop",
-    "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
-    "Untitled 1",
-    "Clients/Camp/Content",
-    "Clients/Camp/Plans",
-    "Tech/Notion"
+    "project Drop"
   ]
 }
