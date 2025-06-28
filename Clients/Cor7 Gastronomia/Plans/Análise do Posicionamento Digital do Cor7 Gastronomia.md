@@ -1,6 +1,6 @@
 # Análise do Posicionamento Digital do Cor7/Corcetti Gastronomia
 
-	#Cor7Gastro #Planej #Manus #PosicionamentoDigital
+#Cor7Gastro #Planej #Manus #PosicionamentoDigital
 ## 1. Presença no Google
 
 Ao pesquisar por "Cor7 Gastronomia" ou "Corcetti Gastronomia" no Google, os resultados mostram uma presença online consistente, com destaque para as redes sociais e o Linktree. Isso indica que a empresa está indexada e é facilmente encontrada por buscas diretas.
