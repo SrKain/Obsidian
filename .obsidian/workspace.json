@@ -11,10 +11,14 @@
             "id": "342c3bb8a5f018cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Clients/Dalla/plans/Análise de Posicionamento Digital do Estúdio Dalla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análise de Posicionamento Digital do Estúdio Dalla"
             }
           }
         ]
@@ -165,8 +169,11 @@
   },
   "active": "342c3bb8a5f018cc",
   "lastOpenFiles": [
+    "Clients/Dalla/plans/Diagnóstico Preliminar - Estúdio Dalla.md",
+    "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
     "Clients/Dalla/plans/Resumo Estúdio Dalla e Lipe Dalla-Rosa.md",
     "Clients/Dalla/plans/Relatório Comparativo de Estúdios de Design e Branding.md",
+    "Clients/Dalla/plans/Plano de Ação Detalhado - Estúdio Dalla.md",
     "Clients/Dalla/plans/Análise de Posicionamento Digital do Estúdio Dalla.md",
     "Clients/Cor7 Gastronomia/Plans/Concorrentes Diretos do Cor7 Gastronomia.md",
     "Clients/Cor7 Gastronomia/Plans/Análise do Posicionamento Digital do Cor7 Gastronomia.md",
@@ -178,9 +185,7 @@
     "Clients/Cor7 Gastronomia/Plans",
     "Clients/Cor7 Gastronomia",
     "Clients/Cor7 Gastronomia/Plans/Untitled",
-    "Clients/Dalla/plans/Plano de Ação Detalhado - Estúdio Dalla.md",
     "Clients/Dalla/plans/Guia Passo a Passo_ Implementando o Plano de Ação - Estúdio Dalla.pdf",
-    "Clients/Dalla/plans/Diagnóstico Preliminar - Estúdio Dalla.md",
     "Clients/Dalla/content/Sua Marca Está Atualizada_ Tendências de Design que o Mercado Premium de Curitiba Valoriza.md",
     "Clients/Dalla/content/Sua Marca em Curitiba Merece Mais_ O Poder do Design Estratégico para Negócios Premium.md",
     "Clients/Dalla/content/Seu Site Vende em Qualquer Tela_ A Importância do Design Responsivo para Negócios em Curitiba.md",
@@ -196,10 +201,8 @@
     "Clients/Camp/Plans/Plano de Ação Detalhado - CampMed Saúde Ocupacional.md",
     "Clients/Camp/Plans/Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional.md",
     "Clients/Camp/Plans/Lista de Tarefas - CampMed Ocupacional.md",
-    "Clients/Camp/Plans/Guia Rápido_ Implementando as Melhorias e Conteúdo - CampMed Ocupacional.md",
     "project Drop/Não confirmado 862698.crdownload",
     "project Drop/Não confirmado 733233.crdownload",
-    "project Drop/Não confirmado 841522.crdownload",
-    "project Drop"
+    "project Drop/Não confirmado 841522.crdownload"
   ]
 }
