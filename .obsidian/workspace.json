@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "f585c6abc4354445",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d965c31557acef7e",
@@ -164,7 +174,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "342c3bb8a5f018cc",
+  "active": "f585c6abc4354445",
   "lastOpenFiles": [
     "Clients/Dalla/plans/Análise de Posicionamento Digital do Estúdio Dalla.md",
     "Clients/Dalla/plans/Diagnóstico Preliminar - Estúdio Dalla.md",
