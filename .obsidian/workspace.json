@@ -21,10 +21,14 @@
             "id": "f585c6abc4354445",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clients/Dalla/content/Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados"
             }
           }
         ],
@@ -176,6 +180,7 @@
   },
   "active": "f585c6abc4354445",
   "lastOpenFiles": [
+    "Clients/Dalla/content/A _Voz_ Visual da Sua Marca_ Como a Tipografia Certa Conquista o Cliente Premium.md",
     "Clients/Dalla/plans/Análise de Posicionamento Digital do Estúdio Dalla.md",
     "Clients/Dalla/plans/Diagnóstico Preliminar - Estúdio Dalla.md",
     "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
@@ -204,7 +209,6 @@
     "Clients/Dalla/content/Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados.md",
     "Clients/Dalla/content/Conecte-se Emocionalmente_ Use o Design para Contar a História da Sua Marca em Curitiba.md",
     "Clients/Dalla/content/Checklist Premium_ Sua Marca está Pronta para Atrair os Melhores Clientes de Curitiba_.md",
-    "Clients/Dalla/content/A _Voz_ Visual da Sua Marca_ Como a Tipografia Certa Conquista o Cliente Premium.md",
     "Clients/Camp/Plans/Plano de Ação Detalhado - CampMed Saúde Ocupacional.md",
     "Clients/Camp/Plans/Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional.md",
     "Clients/Camp/Plans/Lista de Tarefas - CampMed Ocupacional.md",
