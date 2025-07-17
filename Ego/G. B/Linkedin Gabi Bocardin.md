@@ -10,4 +10,7 @@ Motivo -> interface já é poluída, deixar algo preenchido sobrecarrega de info
 
 ## Title 
 Adicionar mais pontos focais
-Tipo -> Renault Group | Transporte | Logistica | 
+Tipo -> Renault Group | Transporte | Logistica | "outros possiveis titulos relativos a profissional ou academico"
+
+## Formação acadêmica
+Adiciona mini cursos -> BI e Excel "por Bi primeiro ajuda a trazer destaque", 
