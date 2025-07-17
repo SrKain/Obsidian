@@ -13,4 +13,7 @@ Adicionar mais pontos focais
 Tipo -> Renault Group | Transporte | Logistica | "outros possiveis titulos relativos a profissional ou academico"
 
 ## Formação acadêmica
-Adiciona mini cursos -> BI e Excel "por Bi primeiro ajuda a trazer destaque", 
+Adiciona mini cursos -> BI e Excel "por Bi primeiro ajuda a trazer destaque", cursos da renault que vc pode ter
+
+## Competências
+Recomendo skills mais complexas, acho analise de performance algo meio saturado de mercado, gestão de projetos vc já tem, mas é mais osso de ah
