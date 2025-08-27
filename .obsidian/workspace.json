@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82496db384ed600e",
+            "id": "0eea242b06050dd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ego/G. B/Linkedin Gabi Bocardin.md",
+                "file": "Methods/Atendimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linkedin Gabi Bocardin"
+              "title": "Atendimento"
             }
           }
         ]
@@ -168,8 +168,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "82496db384ed600e",
+  "active": "0eea242b06050dd2",
   "lastOpenFiles": [
+    "Methods/Atendimento.md",
+    "Methods",
+    "Ego/G. B/Linkedin Gabi Bocardin.md",
     "Clients/Dalla/content/Design é Investimento_ Como Calcular o Retorno do Branding para seu Negócio em Curitiba.md",
     "Clients/Dalla/content/Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados.md",
     "Clients/Dalla/content/Conecte-se Emocionalmente_ Use o Design para Contar a História da Sua Marca em Curitiba.md",
@@ -180,7 +183,6 @@
     "Clients/Volare/Não confirmado 317779.crdownload",
     "Clients/Volare",
     "{7395AB03-9BF9-4335-BBDD-AC928092D86E}.png",
-    "Ego/G. B/Linkedin Gabi Bocardin.md",
     "Ego/G. B",
     "Ego",
     "Clients/Dalla/plans/Análise de Posicionamento Digital do Estúdio Dalla.md",
@@ -198,14 +200,12 @@
     "Clients/Cor7 Gastronomia/Content",
     "Clients/Cor7 Gastronomia/Plans",
     "Clients/Cor7 Gastronomia",
-    "Clients/Cor7 Gastronomia/Plans/Untitled",
     "Clients/Dalla/content/Sua Marca Está Atualizada_ Tendências de Design que o Mercado Premium de Curitiba Valoriza.md",
     "Clients/Dalla/content/Sua Marca em Curitiba Merece Mais_ O Poder do Design Estratégico para Negócios Premium.md",
     "Clients/Dalla/content/Seu Site Vende em Qualquer Tela_ A Importância do Design Responsivo para Negócios em Curitiba.md",
     "Clients/Dalla/content/Organize Sua Marca_ Por Que Todo Negócio Premium em Curitiba Precisa de um Manual de Identidade.md",
     "Clients/Dalla/content/Nosso Método_ Como Criamos Marcas Premium que se Destacam em Curitiba (Passo a Passo).md",
     "Clients/Dalla/content/Logótipo é Só o Começo_ Entenda a Identidade Visual que Valoriza seu Negócio em Curitiba.md",
-    "Clients/Dalla/content/Evite Armadilhas_ 5 Erros de Imagem que Afastam Clientes Premium em Curitiba.md",
-    "Clients/Camp/Plans/Plano de Ação Detalhado - CampMed Saúde Ocupacional.md"
+    "Clients/Dalla/content/Evite Armadilhas_ 5 Erros de Imagem que Afastam Clientes Premium em Curitiba.md"
   ]
 }
