@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "226eae8f9a071db6",
+        "id": "4889cd5d2d63df39",
         "type": "tabs",
         "children": [
           {
-            "id": "0eea242b06050dd2",
+            "id": "45ba41c66ef53731",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clients/Dalla/content/Evite Armadilhas_ 5 Erros de Imagem que Afastam Clientes Premium em Curitiba.md",
+                "file": "Budget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evite Armadilhas_ 5 Erros de Imagem que Afastam Clientes Premium em Curitiba"
+              "title": "Budget"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0eea242b06050dd2",
+  "active": "45ba41c66ef53731",
   "lastOpenFiles": [
+    "Budget.md",
     "Methods/Atendimento.md",
     "Methods",
     "Ego/G. B/Linkedin Gabi Bocardin.md",
@@ -205,7 +206,6 @@
     "Clients/Dalla/content/Seu Site Vende em Qualquer Tela_ A Importância do Design Responsivo para Negócios em Curitiba.md",
     "Clients/Dalla/content/Organize Sua Marca_ Por Que Todo Negócio Premium em Curitiba Precisa de um Manual de Identidade.md",
     "Clients/Dalla/content/Nosso Método_ Como Criamos Marcas Premium que se Destacam em Curitiba (Passo a Passo).md",
-    "Clients/Dalla/content/Logótipo é Só o Começo_ Entenda a Identidade Visual que Valoriza seu Negócio em Curitiba.md",
-    "Clients/Dalla/content/Evite Armadilhas_ 5 Erros de Imagem que Afastam Clientes Premium em Curitiba.md"
+    "Clients/Dalla/content/Logótipo é Só o Começo_ Entenda a Identidade Visual que Valoriza seu Negócio em Curitiba.md"
   ]
 }
