@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4889cd5d2d63df39",
+        "id": "8f81698f47f5fada",
         "type": "tabs",
         "children": [
           {
-            "id": "45ba41c66ef53731",
+            "id": "4330f8f36f7caa21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Clients/Dalla/content/Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados"
             }
           }
         ]
@@ -164,8 +168,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "45ba41c66ef53731",
+  "active": "4330f8f36f7caa21",
   "lastOpenFiles": [
+    "Clients/Dalla/plans/Plano de Ação Detalhado - Estúdio Dalla.md",
     "Clients/Dalla/content/Logótipo é Só o Começo_ Entenda a Identidade Visual que Valoriza seu Negócio em Curitiba.md",
     "Clients/Dalla/content/Evite Armadilhas_ 5 Erros de Imagem que Afastam Clientes Premium em Curitiba.md",
     "Clients/Dalla/content/Design é Investimento_ Como Calcular o Retorno do Branding para seu Negócio em Curitiba.md",
@@ -189,7 +194,6 @@
     "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
     "Clients/Dalla/plans/Resumo Estúdio Dalla e Lipe Dalla-Rosa.md",
     "Clients/Dalla/plans/Relatório Comparativo de Estúdios de Design e Branding.md",
-    "Clients/Dalla/plans/Plano de Ação Detalhado - Estúdio Dalla.md",
     "Clients/Cor7 Gastronomia/Plans/Concorrentes Diretos do Cor7 Gastronomia.md",
     "Clients/Cor7 Gastronomia/Plans/Análise do Posicionamento Digital do Cor7 Gastronomia.md",
     "Clients/Cor7 Gastronomia/Plans/Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba.md",
