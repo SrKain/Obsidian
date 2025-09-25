@@ -1,22 +1,30 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Iasin  ",
+      "color": {
+        "a": 1,
+        "rgb": 5397472
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.7,
-  "nodeSizeMultiplier": 0.584895833333333,
-  "lineSizeMultiplier": 0.431770833333333,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 0.958181818181818,
+  "lineSizeMultiplier": 0.795272727272727,
   "collapse-forces": false,
   "centerStrength": 0.161458333333333,
   "repelStrength": 15.4166666666667,
   "linkStrength": 0.734375,
   "linkDistance": 228,
-  "scale": 0.1166089157945733,
-  "close": true
+  "scale": 0.12420676089327776,
+  "close": false
 }
