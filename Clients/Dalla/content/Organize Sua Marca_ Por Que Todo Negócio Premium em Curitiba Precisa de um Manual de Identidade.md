@@ -1,6 +1,6 @@
 # Organize Sua Marca: Por Que Todo Negócio Premium em Curitiba Precisa de um Manual de Identidade
 
-#Dalla #PostBlog #SEO #Manus
+#Dalla #PostBlog #SEO 
 
 **Meta Title:** Manual de Identidade para Negócios Premium Curitiba | Estúdio Dalla
 **Meta Description:** Mantenha a consistência da sua marca em Curitiba! Entenda o que é um Manual de Identidade (Manual da Marca) e por que ele é essencial para negócios premium.

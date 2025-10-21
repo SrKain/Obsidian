@@ -1,7 +1,6 @@
 # Roadmap para uma Loja de Dropshipping de Sucesso
 
-#DropShipping #Iasin-Tech #Planej #Manus 
-
+#DropShipping #Iasin-Tech #Planej 
 Este roadmap foi criado para o guiar desde o zero na construção de uma loja de dropshipping que não só funciona, mas que também converte vendas de forma eficaz. Abordaremos tanto os aspetos teóricos essenciais quanto os passos práticos para colocar a sua loja no ar.
 
 ## Parte 1: Aprendizado Teórico - Os Fundamentos do Dropshipping

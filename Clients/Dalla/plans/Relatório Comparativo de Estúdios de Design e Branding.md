@@ -1,6 +1,6 @@
 # Relatório Comparativo de Estúdios de Design e Branding
 
-#Dalla #Manus #Diagnóstico #PosicionamentoDigital 
+#Dalla  #Diagnóstico #PosicionamentoDigital 
 
 Este relatório compara as estratégias de posicionamento, captação e perfis de cliente da Tátil Design, Ana Couto e Estúdio Kimura, com o objetivo de fornecer insights para o Estúdio Dalla.
 

@@ -1,5 +1,4 @@
 #Notion
-#Manus
 
 Formula da Manus ->  if(Conclusão != null) { if(Conclusão > Deadline) { "Late Done" } else { "Done" } } else { if(Execução == true) { if(now() > Deadline) { "Hurry Up!" } else { "Working" } } else { if(now() > Deadline) { "Late" } else { "Waiting" } } }
 

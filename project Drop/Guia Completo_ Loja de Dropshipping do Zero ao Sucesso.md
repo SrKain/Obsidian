@@ -1,6 +1,6 @@
 # Guia Completo: Loja de Dropshipping do Zero ao Sucesso
 
-#DropShipping #Iasin-Tech #Planej #Manus 
+#DropShipping #Iasin-Tech #Planej 
 ## Índice
 
 1. [Introdução](#introdução)

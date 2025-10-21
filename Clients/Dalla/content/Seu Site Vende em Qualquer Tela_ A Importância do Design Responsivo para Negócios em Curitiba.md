@@ -1,6 +1,6 @@
 # Seu Site Vende em Qualquer Tela? A Importância do Design Responsivo para Negócios em Curitiba
 
-#Dalla #PostBlog #SEO #Manus
+#Dalla #PostBlog #SEO 
 
 **Meta Title:** Site Responsivo para Negócios Premium Curitiba | Estúdio Dalla
 **Meta Description:** Seu cliente acessa seu site pelo celular? Garanta vendas e boa impressão em qualquer tela com design responsivo. Essencial para negócios em Curitiba.

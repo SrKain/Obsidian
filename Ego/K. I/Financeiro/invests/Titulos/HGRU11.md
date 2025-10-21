@@ -1,4 +1,4 @@
-#HGRU11 #Financeiro #Invest #Manus #Boscardin #Invest/Baixo_risco
+#HGRU11 #Financeiro #Invest  #Boscardin #Invest/Baixo_risco
 ## Análise do FII HGRU11 (CSHG Renda Urbana)
 
 ### O que é o HGRU11?

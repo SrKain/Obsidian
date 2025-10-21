@@ -1,6 +1,6 @@
 # Logótipo é Só o Começo: Entenda a Identidade Visual que Valoriza seu Negócio em Curitiba
 
-#Dalla #PostBlog #SEO #Manus
+#Dalla #PostBlog #SEO 
 
 **Meta Title:** Além do Logótipo: Identidade Visual para Negócios Premium Curitiba | Estúdio Dalla
 **Meta Description:** Acha que ter um logótipo basta? Descubra por que a identidade visual completa é crucial para valorizar seu negócio premium em Curitiba. Saiba mais.

@@ -1,6 +1,6 @@
 # NR-12 em Foco: Como Garantir a Segurança de Máquinas na Indústria de Campina Grande do Sul
 
-#CampMed #PostBlog #SEO #Manus
+#CampMed #PostBlog #SEO 
 
 **Meta Title:** NR-12 Segurança de Máquinas Campina Grande do Sul | Adequação | CampMed
 **Meta Description:** Sua indústria em Campina Grande do Sul está adequada à NR-12? Entenda as exigências para segurança em máquinas e equipamentos e evite acidentes e multas com a CampMed.

@@ -1,6 +1,6 @@
 # Resumo Estúdio Dalla e Lipe Dalla-Rosa
 
-#Dalla #Diagnóstico #Manus 
+#Dalla #Diagnóstico 
 
 ## Estúdio Dalla
 

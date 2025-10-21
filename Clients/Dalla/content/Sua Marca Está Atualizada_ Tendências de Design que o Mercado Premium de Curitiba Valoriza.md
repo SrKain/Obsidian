@@ -1,6 +1,6 @@
 # Sua Marca Está Atualizada? Tendências de Design que o Mercado Premium de Curitiba Valoriza
 
-#Dalla #PostBlog #SEO #Manus
+#Dalla #PostBlog #SEO 
 
 **Meta Title:** Tendências de Design para Negócios Premium Curitiba | Estúdio Dalla
 **Meta Description:** Sua marca parece moderna ou parada no tempo? Conheça as tendências de design que o cliente premium de Curitiba valoriza e inspire-se para atualizar seu negócio.

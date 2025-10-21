@@ -2,7 +2,6 @@
 
 #CampMed 
 #Planej 
-#Manus
 
 Este guia fornece orientações práticas para implementar as sugestões de SEO, navegabilidade e publicar os posts de blog no site da CampMed Ocupacional.
 

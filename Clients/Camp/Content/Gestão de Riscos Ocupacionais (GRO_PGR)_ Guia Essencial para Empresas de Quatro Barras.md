@@ -1,7 +1,6 @@
 # Gestão de Riscos Ocupacionais (GRO/PGR): Guia Essencial para Empresas de Quatro Barras
 
-#CampMed #PostBlog #SEO #Manus
-
+#CampMed #PostBlog #SEO 
 **Meta Title:** GRO e PGR Quatro Barras | Gestão de Riscos Ocupacionais | CampMed
 **Meta Description:** Sua empresa em Quatro Barras já implementou o GRO e o PGR? Entenda essa nova abordagem da NR-1 para gestão de riscos e conte com a CampMed para adequação.
 **Slug:** gro-pgr-gestao-riscos-ocupacionais-quatro-barras

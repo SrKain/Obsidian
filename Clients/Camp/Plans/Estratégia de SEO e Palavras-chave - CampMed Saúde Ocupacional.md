@@ -6,7 +6,6 @@
 
 #CampMed
 #Planej 
-#Manus
 
 ---
 

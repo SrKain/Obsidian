@@ -1,6 +1,6 @@
 # Exames Ocupacionais (Admissional, Periódico, Demissional): Garanta a Conformidade em Campina Grande do Sul
 
-#CampMed #PostBlog #SEO #Manus
+#CampMed #PostBlog #SEO 
 
 **Meta Title:** Exames Ocupacionais Campina Grande do Sul | PCMSO | CampMed
 **Meta Description:** Sua empresa em Campina Grande do Sul realiza corretamente os exames admissionais, periódicos e demissionais? Garanta a conformidade com a NR-7 e o PCMSO com a CampMed.

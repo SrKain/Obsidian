@@ -1,6 +1,6 @@
 # Tutorial Técnico: Implementação de Loja de Dropshipping
 
-#DropShipping #Iasin-Tech #Planej #Manus 
+#DropShipping #Iasin-Tech #Planej 
 
 Este tutorial técnico fornece um guia passo a passo detalhado para implementar uma loja de dropshipping funcional e otimizada para conversões. Abordaremos desde a configuração técnica até às estratégias avançadas de otimização.
 

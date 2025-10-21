@@ -1,7 +1,7 @@
 # Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba
 
 
-#Cor7Gastro #Planej #Manus 
+#Cor7Gastro #Planej 
 ## Introdução
 Este estudo tem como objetivo analisar o mercado de gastrobares na Região Metropolitana de Curitiba, com foco específico nas cidades de Campina Grande do Sul e Quatro Barras, no Paraná. A pesquisa visa compreender a jornada de consumo de homens entre 30 e 50 anos, destacando como eles utilizam a internet para descobrir e escolher novos restaurantes e bares. Com base nesses dados, será desenvolvida uma estratégia de marketing digital para atrair e fidelizar esse público.
 
