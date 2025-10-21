@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0948cea18b7962d3",
+            "id": "1f0a6942aa18106f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ego/G. B/Linkedin Gabi Bocardin.md",
+                "file": "Ego/K. I/Financeiro/analise_financeira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linkedin Gabi Bocardin"
+              "title": "analise_financeira"
             }
           }
         ]
@@ -168,8 +168,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0948cea18b7962d3",
+  "active": "eba917ec412f397c",
   "lastOpenFiles": [
+    "Ego/K. I/Financeiro/invests",
+    "Budget.md",
+    "Ego/G. B/Linkedin Gabi Bocardin.md",
     "Ego/K. I/Financeiro/analise_financeira.md",
     "Methods/Atendimento.md",
     "Clients/Dalla/content/Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados.md",
@@ -180,9 +183,7 @@
     "Clients/Dalla/content/Conecte-se Emocionalmente_ Use o Design para Contar a História da Sua Marca em Curitiba.md",
     "Clients/Dalla/content/Checklist Premium_ Sua Marca está Pronta para Atrair os Melhores Clientes de Curitiba_.md",
     "Clients/Dalla/content/A _Voz_ Visual da Sua Marca_ Como a Tipografia Certa Conquista o Cliente Premium.md",
-    "Budget.md",
     "Methods",
-    "Ego/G. B/Linkedin Gabi Bocardin.md",
     "Clients/Volare/Relatório de Análise de CNPJs.md",
     "Clients/Volare/Untitled.md",
     "Clients/Volare/Não confirmado 317779.crdownload",
@@ -205,7 +206,6 @@
     "Clients/Cor7 Gastronomia/Plans",
     "Clients/Cor7 Gastronomia",
     "Clients/Dalla/content/Sua Marca Está Atualizada_ Tendências de Design que o Mercado Premium de Curitiba Valoriza.md",
-    "Clients/Dalla/content/Sua Marca em Curitiba Merece Mais_ O Poder do Design Estratégico para Negócios Premium.md",
-    "Clients/Dalla/content/Seu Site Vende em Qualquer Tela_ A Importância do Design Responsivo para Negócios em Curitiba.md"
+    "Clients/Dalla/content/Sua Marca em Curitiba Merece Mais_ O Poder do Design Estratégico para Negócios Premium.md"
   ]
 }
