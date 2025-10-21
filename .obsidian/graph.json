@@ -5,26 +5,26 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#Iasin  ",
+      "query": "tag:#Financeiro",
       "color": {
         "a": 1,
-        "rgb": 5397472
+        "rgb": 16744448
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.632363636363636,
   "lineSizeMultiplier": 0.492727272727273,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.407866419294991,
   "repelStrength": 14.3317254174397,
   "linkStrength": 0.734375,
   "linkDistance": 228,
-  "scale": 0.06702409020364375,
+  "scale": 0.12420676089327777,
   "close": false
 }

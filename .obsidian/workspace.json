@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "HGRU11"
             }
+          },
+          {
+            "id": "57593ffd2bc33fd8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +179,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1f0a6942aa18106f",
+  "active": "57593ffd2bc33fd8",
   "lastOpenFiles": [
-    "Ego/K. I/Financeiro/analise_financeira.md",
     "Ego/K. I/Financeiro/invests/Titulos/HGRU11.md",
+    "Ego/K. I/Financeiro/analise_financeira.md",
     "Ego/K. I/Financeiro/invests/Titulos",
     "Ego/K. I/Financeiro/invests",
     "Budget.md",
