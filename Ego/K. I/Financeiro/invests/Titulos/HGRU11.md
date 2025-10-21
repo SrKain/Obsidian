@@ -32,3 +32,4 @@ O portfólio do HGRU11 é diversificado geograficamente, com imóveis em vários
 *   **Qualidade dos Ativos e Inquilinos:** O portfólio inclui imóveis alugados para grandes empresas como Atacadão (Carrefour), Pernambucanas, Sam's Club (Walmart) e instituições de ensino como IBMEC e Estácio, o que confere maior segurança aos contratos de aluguel.
 *   **P/VP:** O indicador P/VP (Preço sobre Valor Patrimonial) de 0,99 sugere que a cota está sendo negociada com um leve desconto em relação ao valor patrimonial dos ativos do fundo, o que pode ser interpretado como uma margem de segurança, conforme os princípios de Benjamin Graham.
 *   **Riscos:** Como todo FII, o HGRU11 está sujeito a riscos do mercado imobiliário (vacância, inadimplência, desvalorização dos imóveis), riscos de mercado (flutuações nas cotações) e riscos de taxa de juros (aumento da Selic pode tornar a renda fixa mais atrativa, pressionando as cotações dos FIIs).
+

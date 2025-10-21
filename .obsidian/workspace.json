@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "HGRU11"
             }
-          },
-          {
-            "id": "57593ffd2bc33fd8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +168,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57593ffd2bc33fd8",
+  "active": "1f0a6942aa18106f",
   "lastOpenFiles": [
+    "Ego/K. I/Financeiro/Análises/Análise Financeira - Manus.md",
+    "Ego/K. I/Financeiro/Análises",
     "Ego/K. I/Financeiro/invests/Titulos/HGRU11.md",
-    "Ego/K. I/Financeiro/analise_financeira.md",
     "Ego/K. I/Financeiro/invests/Titulos",
     "Ego/K. I/Financeiro/invests",
     "Budget.md",
@@ -215,8 +205,6 @@
     "teste maneiro de cria.md",
     "Clients/Cor7 Gastronomia/Plans/Não confirmado 899726.crdownload",
     "Clients/Cor7 Gastro.md",
-    "Clients/Cor7 Gastronomia/Content",
-    "Clients/Dalla/content/Sua Marca Está Atualizada_ Tendências de Design que o Mercado Premium de Curitiba Valoriza.md",
-    "Clients/Dalla/content/Sua Marca em Curitiba Merece Mais_ O Poder do Design Estratégico para Negócios Premium.md"
+    "Clients/Dalla/content/Sua Marca Está Atualizada_ Tendências de Design que o Mercado Premium de Curitiba Valoriza.md"
   ]
 }
