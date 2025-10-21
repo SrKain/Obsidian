@@ -1,6 +1,6 @@
 # Design é Investimento: Como Calcular o Retorno do Branding para seu Negócio em Curitiba
 
-#Dalla #PostBlog #SEO #Manus
+#Dalla #PostBlog #SEO 
 
 **Meta Title:** ROI de Branding para Negócios Curitiba | Calcular Retorno | Estúdio Dalla
 **Meta Description:** Investir na imagem da sua marca em Curitiba vale a pena? Aprenda a enxergar e medir o Retorno Sobre o Investimento (ROI) de um projeto de branding premium.

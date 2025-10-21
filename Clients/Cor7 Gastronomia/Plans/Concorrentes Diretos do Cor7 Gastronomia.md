@@ -1,6 +1,6 @@
 # Concorrentes Diretos do Cor7 Gastronomia
 
-#Cor7Gastro #Diagnóstico #Manus #Planej 
+#Cor7Gastro #Diagnóstico  #Planej 
 
 Com base na pesquisa focada nas regiões de Jardim Paulista (Campina Grande do Sul), Menino Deus e Quatro Barras, e buscando estabelecimentos que se encaixam no conceito de gastrobar ou restaurantes com proposta similar e que aparentam ser um pouco maiores que o Cor7 Gastronomia (que possui cerca de 5.3k seguidores no Instagram), identifiquei os seguintes concorrentes diretos:
 

@@ -1,6 +1,6 @@
 # A "Voz" Visual da Sua Marca: Como a Tipografia Certa Conquista o Cliente Premium
 
-#Dalla #PostBlog #SEO #Manus
+#Dalla #PostBlog #SEO 
 
 **Meta Title:** Tipografia para Marcas Premium Curitiba | Voz Visual | Estúdio Dalla
 **Meta Description:** As fontes do seu material comunicam o quê? Descubra como a tipografia certa pode ser a "voz visual" que conquista clientes premium em Curitiba.

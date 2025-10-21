@@ -1,6 +1,6 @@
 # Como a CampMed Ajuda Empresas Locais a Evitar Acidentes de Trabalho (Case Prático)
 
-#CampMed #PostBlog #SEO #Manus
+#CampMed #PostBlog #SEO 
 
 **Meta Title:** Evitar Acidentes Trabalho Campina Grande/Quatro Barras | Case | CampMed
 **Meta Description:** Veja na prática como a CampMed ajudou uma empresa local (Campina Grande/Quatro Barras) a reduzir acidentes de trabalho através de uma gestão de SST eficaz.

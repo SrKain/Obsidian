@@ -1,8 +1,7 @@
 # Diagnóstico Preliminar - CampMed Saúde Ocupacional
 
-#CampMed
-#Planej
-#Manus 
+#CampMed #Planej
+
 
 **Data:** 29 de Maio de 2025
 **Foco:** Médias e Grandes Empresas em Campina Grande do Sul e Quatro Barras - PR

@@ -1,6 +1,6 @@
 # Análise de Posicionamento Digital do Estúdio Dalla
 
-#Dalla #Diagnóstico #Manus #PosicionamentoDigital 
+#Dalla #Diagnóstico #PosicionamentoDigital 
 
 ## 1. Website (estudiodalla.com)
 

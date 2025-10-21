@@ -11,10 +11,14 @@
             "id": "1f0a6942aa18106f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Clients/Camp/Content/eSocial e SST_ Sua Empresa em Campina Grande do Sul está 100% em Conformidade_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eSocial e SST_ Sua Empresa em Campina Grande do Sul está 100% em Conformidade_"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,41 +171,42 @@
   },
   "active": "1f0a6942aa18106f",
   "lastOpenFiles": [
-    "Ego/K. I/Financeiro/invests/Titulos/HGRU11.md",
+    "Clients/Camp/Content/Reduza Custos com Afastamentos em Quatro Barras_ O Papel Estratégico da Saúde Ocupacional.md",
+    "Clients/Camp/Content/Ergonomia no Ambiente de Trabalho_ Prevenindo Lesões e Multas em Sua Empresa.md",
+    "Clients/Dalla/plans/Diagnóstico Preliminar - Estúdio Dalla.md",
+    "Clients/Camp/Plans/Diagnóstico Preliminar - CampMed Saúde Ocupacional.md",
+    "Clients/Dalla/content/Design é Investimento_ Como Calcular o Retorno do Branding para seu Negócio em Curitiba.md",
+    "Clients/Dalla/content/Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados.md",
+    "Clients/Dalla/content/Conecte-se Emocionalmente_ Use o Design para Contar a História da Sua Marca em Curitiba.md",
+    "Clients/Camp/Content/Como a CampMed Ajuda Empresas Locais a Evitar Acidentes de Trabalho (Case Prático).md",
+    "Clients/Cor7 Gastronomia/Plans/Concorrentes Diretos do Cor7 Gastronomia.md",
+    "Clients/Camp/Content/CIPA Atuante_ Maximizando a Segurança e o Engajamento na Sua Empresa.md",
+    "Clients/Dalla/content/Checklist Premium_ Sua Marca está Pronta para Atrair os Melhores Clientes de Curitiba_.md",
+    "Clients/Camp/Content/Checklist de Segurança do Trabalho_ Sua Indústria em Quatro Barras está Segura_.md",
     "Ego/K. I/Financeiro/Análises/Análise Financeira - Manus.md",
+    "Clients/Cor7 Gastronomia/Plans/Análise do Posicionamento Digital do Cor7 Gastronomia.md",
+    "Clients/Dalla/plans/Análise de Posicionamento Digital do Estúdio Dalla.md",
+    "Clients/Camp/Content/Além da Obrigação_ Como o PCMSO Bem Gerenciado Aumenta a Produtividade da Sua Equipa.md",
+    "Clients/Dalla/content/A _Voz_ Visual da Sua Marca_ Como a Tipografia Certa Conquista o Cliente Premium.md",
+    "Methods/Atendimento.md",
+    "Clients/Volare/Relatório de Análise de CNPJs.md",
+    "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
+    "Clients/Dalla/plans/Guia Passo a Passo_ Implementando o Plano de Ação - Estúdio Dalla.pdf",
+    "Ego/K. I/Financeiro/invests/Titulos/HGRU11.md",
     "Ego/K. I/Financeiro/Análises",
     "Ego/K. I/Financeiro/invests/Titulos",
     "Ego/K. I/Financeiro/invests",
     "Budget.md",
     "Ego/G. B/Linkedin Gabi Bocardin.md",
-    "Methods/Atendimento.md",
-    "Clients/Dalla/content/Contratando Design em Curitiba_ O Guia Essencial para um Briefing que Gera Resultados.md",
     "Clients/Dalla/plans/Plano de Ação Detalhado - Estúdio Dalla.md",
     "Clients/Dalla/content/Logótipo é Só o Começo_ Entenda a Identidade Visual que Valoriza seu Negócio em Curitiba.md",
     "Clients/Dalla/content/Evite Armadilhas_ 5 Erros de Imagem que Afastam Clientes Premium em Curitiba.md",
-    "Clients/Dalla/content/Design é Investimento_ Como Calcular o Retorno do Branding para seu Negócio em Curitiba.md",
-    "Clients/Dalla/content/Conecte-se Emocionalmente_ Use o Design para Contar a História da Sua Marca em Curitiba.md",
-    "Clients/Dalla/content/Checklist Premium_ Sua Marca está Pronta para Atrair os Melhores Clientes de Curitiba_.md",
-    "Clients/Dalla/content/A _Voz_ Visual da Sua Marca_ Como a Tipografia Certa Conquista o Cliente Premium.md",
     "Methods",
-    "Clients/Volare/Relatório de Análise de CNPJs.md",
     "Clients/Volare/Untitled.md",
     "Clients/Volare/Não confirmado 317779.crdownload",
     "Clients/Volare",
     "{7395AB03-9BF9-4335-BBDD-AC928092D86E}.png",
     "Ego/G. B",
-    "Ego",
-    "Clients/Dalla/plans/Análise de Posicionamento Digital do Estúdio Dalla.md",
-    "Clients/Dalla/plans/Diagnóstico Preliminar - Estúdio Dalla.md",
-    "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
-    "Clients/Dalla/plans/Resumo Estúdio Dalla e Lipe Dalla-Rosa.md",
-    "Clients/Dalla/plans/Relatório Comparativo de Estúdios de Design e Branding.md",
-    "Clients/Cor7 Gastronomia/Plans/Concorrentes Diretos do Cor7 Gastronomia.md",
-    "Clients/Cor7 Gastronomia/Plans/Análise do Posicionamento Digital do Cor7 Gastronomia.md",
-    "Clients/Cor7 Gastronomia/Plans/Estudo Aprofundado do Mercado de Gastrobares na Região Metropolitana de Curitiba.md",
-    "teste maneiro de cria.md",
-    "Clients/Cor7 Gastronomia/Plans/Não confirmado 899726.crdownload",
-    "Clients/Cor7 Gastro.md",
-    "Clients/Dalla/content/Sua Marca Está Atualizada_ Tendências de Design que o Mercado Premium de Curitiba Valoriza.md"
+    "Ego"
   ]
 }

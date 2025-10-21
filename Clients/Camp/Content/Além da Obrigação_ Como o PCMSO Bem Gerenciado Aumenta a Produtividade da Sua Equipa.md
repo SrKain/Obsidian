@@ -1,6 +1,6 @@
 # Além da Obrigação: Como o PCMSO Bem Gerenciado Aumenta a Produtividade da Sua Equipa
 
-#CampMed #PostBlog #SEO #Manus 
+#CampMed #PostBlog #SEO
 
 **Meta Title:** PCMSO e Produtividade | Benefícios Saúde Ocupacional | CampMed
 **Meta Description:** O PCMSO é mais que uma obrigação legal. Descubra como um Programa de Controle Médico bem gerenciado pela CampMed pode aumentar a produtividade da sua empresa.

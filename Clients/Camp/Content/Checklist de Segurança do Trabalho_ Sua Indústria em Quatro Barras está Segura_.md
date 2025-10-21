@@ -1,6 +1,6 @@
 # Checklist de Segurança do Trabalho: Sua Indústria em Quatro Barras está Segura?
 
-#CampMed #PostBlog #SEO #Manus
+#CampMed #PostBlog #SEO 
 
 **Meta Title:** Checklist Segurança Trabalho Indústria Quatro Barras | Conformidade | CampMed
 **Meta Description:** Sua indústria em Quatro Barras cumpre os requisitos básicos de segurança? Use nosso checklist rápido e veja como a CampMed pode ajudar na adequação.

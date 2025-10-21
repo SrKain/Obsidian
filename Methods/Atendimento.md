@@ -1,1 +1,0 @@
-Segundo #Disney baseado em todos os anos de experiência

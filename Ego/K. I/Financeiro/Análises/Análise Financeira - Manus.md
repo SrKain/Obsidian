@@ -1,6 +1,6 @@
 # Análise Financeira Mensal e Recomendações
 
-#Manus #Financeiro #Iasin #Diagnóstico 
+#Financeiro #Iasin #Diagnóstico 
 
 ## Resumo da Análise de Gastos (Mês de Agosto de 2025)
 

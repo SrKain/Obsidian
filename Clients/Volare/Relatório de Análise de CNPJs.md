@@ -1,3 +1,5 @@
+#Manus
+
 Este relatório apresenta uma análise dos dados de CNPJs fornecidos, incluindo os CNAEs mais comuns, capital social médio, maiores capitais sociais e cidades mais e menos comuns.
 
 ## 1. Os 5 CNAE mais comuns
