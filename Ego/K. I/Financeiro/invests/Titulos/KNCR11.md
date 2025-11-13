@@ -1,3 +1,5 @@
+#Invest #KNCR11 #Ibovespa #Financeiro #FII 
+
 # Análise do FII KNCR11 (Kinea Rendimentos Imobiliários)
 
 ## O Consultor de Investimentos e a Análise do KNCR11

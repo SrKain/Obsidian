@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fefcd2770e8f5bd",
+        "id": "258aa835dfb5b7b4",
         "type": "tabs",
         "children": [
           {
-            "id": "1f0a6942aa18106f",
+            "id": "feb76537cc353b81",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d965c31557acef7e",
@@ -165,8 +164,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1f0a6942aa18106f",
+  "active": "feb76537cc353b81",
   "lastOpenFiles": [
+    "Ego/K. I/Financeiro/invests/Titulos/BOVA11.md",
+    "Ego/K. I/Financeiro/invests/Titulos/HGRU11.md",
+    "Ego/K. I/Financeiro/invests/Titulos/KNCR11.md",
     "Ego/K. I/Financeiro/Análises/Análise Financeira - Manus.md",
     "Clients/Dalla/content/Logótipo é Só o Começo_ Entenda a Identidade Visual que Valoriza seu Negócio em Curitiba.md",
     "Clients/Camp/Content/LTCAT e Aposentadoria Especial_ O que Gestores de RH em Quatro Barras Devem Saber.md",
@@ -188,11 +190,8 @@
     "Clients/Camp/Content/NR-12 em Foco_ Como Garantir a Segurança de Máquinas na Indústria de Campina Grande do Sul.md",
     "Clients/Dalla/content/Organize Sua Marca_ Por Que Todo Negócio Premium em Curitiba Precisa de um Manual de Identidade.md",
     "Clients/Camp/Plans/Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional.md",
-    "Ego/K. I/Financeiro/invests/Titulos/HGRU11.md",
     "Clients/Camp/Plans/Lista de Tarefas - CampMed Ocupacional.md",
     "project Drop/Guia Completo_ Loja de Dropshipping do Zero ao Sucesso.md",
-    "Clients/Camp/Plans/Guia Rápido_ Implementando as Melhorias e Conteúdo - CampMed Ocupacional.md",
-    "Clients/Camp/Content/Gestão de Riscos Ocupacionais (GRO_PGR)_ Guia Essencial para Empresas de Quatro Barras.md",
     "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
     "Clients/Dalla/plans/Guia Passo a Passo_ Implementando o Plano de Ação - Estúdio Dalla.pdf",
     "Ego/K. I/Financeiro/Análises",
