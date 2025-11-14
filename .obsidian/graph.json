@@ -5,26 +5,33 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Financeiro",
       "color": {
         "a": 1,
-        "rgb": 16744448
+        "rgb": 15536433
+      }
+    },
+    {
+      "query": "tag:#Invest  ",
+      "color": {
+        "a": 1,
+        "rgb": 16020992
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.1,
+  "textFadeMultiplier": -0.3,
   "nodeSizeMultiplier": 0.516,
   "lineSizeMultiplier": 0.516,
   "collapse-forces": false,
-  "centerStrength": 0.555027829313544,
-  "repelStrength": 13.5717996289425,
-  "linkStrength": 0.645535042334423,
+  "centerStrength": 0.1,
+  "repelStrength": 18.5201212611584,
+  "linkStrength": 0.79538694970771,
   "linkDistance": 470,
-  "scale": 0.6783170789156938,
-  "close": false
+  "scale": 0.04224918762698835,
+  "close": true
 }
