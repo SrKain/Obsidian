@@ -11,10 +11,14 @@
             "id": "79511b19d31f3ecc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -167,6 +171,9 @@
   },
   "active": "79511b19d31f3ecc",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
     "Untitled.md",
     "Untitled 1.md",
     "Ego/K. I/Financeiro/invests/Titulos/BOVA11.md",
@@ -190,9 +197,6 @@
     "Clients/Volare/Relatório de Análise de CNPJs.md",
     "Clients/Dalla/plans/Resumo Estúdio Dalla e Lipe Dalla-Rosa.md",
     "Clients/Dalla/content/Nosso Método_ Como Criamos Marcas Premium que se Destacam em Curitiba (Passo a Passo).md",
-    "Clients/Camp/Content/NR-12 em Foco_ Como Garantir a Segurança de Máquinas na Indústria de Campina Grande do Sul.md",
-    "Clients/Dalla/content/Organize Sua Marca_ Por Que Todo Negócio Premium em Curitiba Precisa de um Manual de Identidade.md",
-    "Clients/Camp/Plans/Otimizações de SEO On-Page e Navegabilidade - CampMed Saúde Ocupacional.md",
     "Clients/Dalla/plans/Otimizações de SEO On-Page - Páginas Existentes Estúdio Dalla.pdf",
     "Clients/Dalla/plans/Guia Passo a Passo_ Implementando o Plano de Ação - Estúdio Dalla.pdf",
     "Ego/K. I/Financeiro/Análises",
